@@ -1,4 +1,4 @@
-## README for exp_cam
+
 * result/
 > 一些图像及可视化结果示意
 
